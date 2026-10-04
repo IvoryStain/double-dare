@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609319435986",
+    "project_id": "couplesdare",
+    "storage_bucket": "couplesdare.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609319435986:android:eaa5bbd5fa22b1edd6770b",
+        "android_client_info": {
+          "package_name": "com.doubledare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMwOD-ItgwMBdI5bWOnEK-Edutn5JRpSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
